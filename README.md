@@ -3,13 +3,13 @@
 
 ---
 
-I'm a dedicated DevOps Engineer at [Playgroundtech](https://playgroundtech.io) based in 🇸🇪. Mastering AWS, container orchestration, and automation with a rich background that spans from globe-trotting to tech innovation. Passionate about crafting efficient CI/CD pipelines, embracing Infrastructure as Code, and coding in Bash and Python. 
+I'm a dedicated Cloud Engineer at [Playgroundtech](https://playgroundtech.io) based in 🇸🇪. Mastering AWS, container orchestration, and automation with a rich background that spans from globe-trotting to tech innovation. Passionate about crafting efficient CI/CD pipelines, embracing Infrastructure as Code, and coding in Bash and Python. 
 
 When I'm not deploying ⚡ or automating infrastructure, you might find me whipping up a mean Pad Thai!
 
 ### 💼 Professional Journey
 
-- **Playgroundtech, Sweden** - _DevOps Engineer_
+- **Playgroundtech, Sweden** - Platform Engineer_
   - Building and maintaining scalable and efficient cloud infrastructures.
   - Implementing automation tools and orchestrating deployments.
 - **Kambi** - _DevOps Consultant_
