@@ -1,5 +1,5 @@
 ### Hi there 👋
-> ### DevOps Engineer | Cloud Architect | Tech Enthusiast
+> ### Platform Engineer | Cloud Architect | Tech Enthusiast
 
 ---
 
