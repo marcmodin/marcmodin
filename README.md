@@ -14,7 +14,7 @@ When I'm not deploying ⚡ or automating infrastructure, you might find me whipp
   - Implementing automation tools and orchestrating deployments.
 - **Kambi** - _DevOps Consultant_
   - Streamlined deployment processes and enhanced system reliability.
-- **RaySearch Laboratories** - _Internship_
+- **RaySearch Laboratories** - _Devops Internship_
   - Contributed to research and development of pioneering medical software.
 
 ### 🛠️ Technologies
@@ -24,9 +24,9 @@ When I'm not deploying ⚡ or automating infrastructure, you might find me whipp
 
 ### 🌏 Personal Interests
 
-- **Travel**: Adventure enthusiast with a history of exploring Southeast Asia.
+- **Travel**: An ex Adventure Tourleader with a history of exploring Southeast Asia.
 - **Cooking**: From local delicacies to international cuisines, especially a mean Pad Thai.
-- **Art**: Expressive drawing and painting in my downtime.
+- **Art**: Enjoy drawing in my downtime.
 
 ### 💬 Let's Connect
 
