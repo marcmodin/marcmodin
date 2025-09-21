@@ -3,7 +3,7 @@
 
 ---
 
-I'm a dedicated Cloud Engineer at [Playgroundtech](https://playgroundtech.io) based in 🇸🇪. Mastering AWS, container orchestration, and automation with a rich background that spans from globe-trotting to tech innovation. Passionate about crafting efficient CI/CD pipelines, embracing Infrastructure as Code, and coding in Golang and Python. 
+I'm a dedicated Cloud Engineer at [Playgroundtech](https://playgroundtech.io) based in 🇸🇪. Mastering AWS, container orchestration, and automation with a rich background that spans from globe-trotting to tech innovation. Passionate about crafting solutions, efficient CI/CD pipelines, Infrastructure as Code, and coding in Golang and Python. 
 
 When I'm not deploying ⚡ or automating infrastructure, you might find me whipping up a mean Pad Thai!
 
